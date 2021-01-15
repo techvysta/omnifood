@@ -467,10 +467,9 @@ cite img{
 
 input[type=text],
 input[type=email],
-input[type=find-us],
 select,
 textarea{
-    width: 200%;
+    width: 100%;
     padding: 7px;
     border-radius: 3px;
     border: 1px solid #ccc;
