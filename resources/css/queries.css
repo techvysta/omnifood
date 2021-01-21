@@ -17,7 +17,13 @@ section{ padding: 60px 0;}
       width: 80%;
       margin-left: 15%;
   }
-
+ 
+    .steps-box{ margin-top: 10px;}
+    .works-step{ margin-bottom: 40px;}
+    .works-step:last-of-type {margin-bottom: 60px;}
+    .app-screen{ width: 50%;}
+    .icon-small{width: 30px;}
+    .city-feature{font-size: 90%;}
 }
 
 
